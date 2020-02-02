@@ -2,6 +2,38 @@
 size: 1px;
 }
 
+.fodo10{
+  background-image: url(https://imgur.com/8wseIgB.png);
+background-size: 100%;
+background-position: center;
+padding-left: 5%;
+display: inline-block;
+}
+
+.fodo11{
+  background-image: url(https://imgur.com/J7gUneg.png);
+background-size: 100%;
+background-position: center;
+padding-left: 5%;
+display: inline-block;
+}
+
+.fodo12{
+  background-image: url(https://imgur.com/aL5hq5K.png);
+background-size: 100%;
+background-position: center;
+padding-left: 5%;
+display: inline-block;
+}
+
+.fodo13{
+  background-image: url(https://imgur.com/i0ROWyH.png);
+background-size: 100%;
+background-position: center;
+padding-left: 5%;
+display: inline-block;
+}
+
 .fodo{
   background-image: url(https://imgur.com/iK6XMPd.png);
 background-size: 100%;
@@ -67,7 +99,7 @@ display: inline-block;
 }
 
 .fodo9{
-background-image: url(https://imgur.com/jigiOTP.png);
+background-image: url(https://imgur.com/94texK6.png);
 background-size: 100%;
 background-position: center;
 padding-left: 5%;
