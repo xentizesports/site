@@ -1,12 +1,101 @@
+.11{
+size: 1px;
+}
+
+.fodo{
+  background-image: url(https://imgur.com/iK6XMPd.png);
+background-size: 100%;
+background-position: center;
+padding-left: 5%;
+display: inline-block;
+}
+
+.fodo2{
+background-image: url(https://imgur.com/Usb7B00.png);
+background-size: 100%;
+background-position: center;
+padding-left: 5%;
+display: inline-block;
+}
+
+.fodo3{
+background-image: url(https://imgur.com/sWqAnDW.png);
+background-size: 100%;
+background-position: center;
+padding-left: 5%;
+display: inline-block;
+}
+
+.fodo4{
+background-image: url(https://imgur.com/e56Md6K.png);
+background-size: 100%;
+background-position: center;
+padding-left: 5%;
+display: inline-block;
+}
+
+.fodo5{
+background-image: url(https://imgur.com/0OdtKPU.png);
+background-size: 100%;
+background-position: center;
+padding-left: 5%;
+display: inline-block;
+}
+
+.fodo6{
+background-image: url(https://imgur.com/evNBNmB.png);
+background-size: 100%;
+background-position: center;
+padding-left: 5%;
+display: inline-block;
+}
+
+.fodo7{
+background-image: url(https://imgur.com/TJPoEOp.png);
+background-size: 100%;
+background-position: center;
+padding-left: 5%;
+display: inline-block;
+}
+
+.fodo8{
+background-image: url(https://imgur.com/RMdfXuj.png);
+background-size: 100%;
+background-position: center;
+padding-left: 5%;
+display: inline-block;
+}
+
+.fodo9{
+background-image: url(https://imgur.com/jigiOTP.png);
+background-size: 100%;
+background-position: center;
+padding-left: 5%;
+display: inline-block;
+}
+
+.tp{
+color: #00000000;
+}
+
+}
+.center{
+text-align: center;
+}
+
+.purple2 {
+  color: #AF127F;
+}
+
 .purple {
-  color: #8845f4;
+  color: #AF127F;
 }
 
 body {
   font-family: 'Poppins', sans-serif;
   color: black;
   line-height: 26px;
-  text-align: justify;
+  text-align: center;
 }
 
 .half-width {
@@ -28,7 +117,7 @@ body {
 
 .primary {
   color: white;
-  background-color: #8845f4;
+  background-color: #AF127F;
   padding: 13px 42px 13px 42px;
   border-radius: 20px;
   text-decoration: none;
@@ -44,10 +133,9 @@ h1 {
 }
 
 .experiences {
-  padding: 30px;
-  margin: 30px;
-  background-color: rgb(238, 251, 255);
-  border-radius: 20px;
+color: white;
+  background-color: rgba(175,18,127,1);
+ padding: 10px;
   font-size: 0.7em;
 }
 
@@ -57,11 +145,13 @@ h1 {
 
 .navi {
   color: white;
-  background-color: #8845f4;
+  background-color: #AF127F;
   padding: 13px 42px 13px 42px;
   border-color: black;
   border: 2px;
   border-radius: 20px;
   text-decoration: none;
   text-align: center;
+  text-decoration: bold;
 }
+
